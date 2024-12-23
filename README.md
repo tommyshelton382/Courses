@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,11 +11,11 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f8f9fa; /* Light background */
+            background-color: #f8f9fa;
             color: #333;
         }
         header {
-            background: linear-gradient(to right, #004d40, #00796b); /* Professional gradient */
+            background: linear-gradient(to right, #004d40, #00796b);
             color: white;
             padding: 50px 20px;
             text-align: center;
@@ -189,7 +190,7 @@
 <!-- Hero Section -->
 <section class="hero">
     <div>
-        <h2>Learn, Grow,        <h2>Learn, Grow, and Build Your Tree Service Business</h2>
+        <h2>Learn, Grow, and Build Your Tree Service Business</h2>
         <p>Our academy offers comprehensive courses to turn your tree service skills into a thriving business.</p>
         <button class="cta-button" onclick="window.location.href='#courses'">Explore Courses</button>
     </div>
