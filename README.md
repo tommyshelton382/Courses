@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -190,4 +189,78 @@
 <!-- Hero Section -->
 <section class="hero">
     <div>
-        <h2>Learn, Grow,
+        <h2>Learn, Grow,        <h2>Learn, Grow, and Build Your Tree Service Business</h2>
+        <p>Our academy offers comprehensive courses to turn your tree service skills into a thriving business.</p>
+        <button class="cta-button" onclick="window.location.href='#courses'">Explore Courses</button>
+    </div>
+</section>
+
+<!-- Main Content -->
+<div class="container">
+    <!-- Features Section -->
+    <h2 class="section-title">Why Choose Us?</h2>
+    <div class="features">
+        <div class="feature-box">
+            <i class="fas fa-tree"></i>
+            <h3>Expert Training</h3>
+            <p>Learn from professionals with years of experience in the tree service industry.</p>
+        </div>
+        <div class="feature-box">
+            <i class="fas fa-chart-line"></i>
+            <h3>Proven Strategies</h3>
+            <p>Get insights and strategies that guarantee business growth and success.</p>
+        </div>
+        <div class="feature-box">
+            <i class="fas fa-handshake"></i>
+            <h3>Business Support</h3>
+            <p>Receive ongoing support to help you scale your business effectively.</p>
+        </div>
+    </div>
+
+    <!-- Testimonials Section -->
+    <div class="testimonials">
+        <h2 class="section-title">What Our Students Say</h2>
+        <div class="testimonial">
+            <img src="https://via.placeholder.com/80" alt="Student">
+            <p>"Tree Service Academy changed my life. I went from struggling to running a profitable business in less than a year!" - John D.</p>
+        </div>
+        <div class="testimonial">
+            <img src="https://via.placeholder.com/80" alt="Student">
+            <p>"The course is packed with practical advice and tools. Highly recommended!" - Sarah P.</p>
+        </div>
+    </div>
+
+    <!-- Faculty Section -->
+    <div class="faculty">
+        <h2 class="section-title">Meet Our Instructors</h2>
+        <div class="faculty-member">
+            <img src="https://via.placeholder.com/80" alt="Instructor">
+            <p><strong>Mark Johnson</strong> - Certified Arborist with 15 years of field experience.</p>
+        </div>
+        <div class="faculty-member">
+            <img src="https://via.placeholder.com/80" alt="Instructor">
+            <p><strong>Emily Smith</strong> - Business strategist and marketing expert specializing in tree services.</p>
+        </div>
+    </div>
+
+    <!-- Pricing Section -->
+    <div class="pricing">
+        <h2 class="section-title">Course Pricing</h2>
+        <p>Get lifetime access to all modules, resources, and updates.</p>
+        <div class="price">$997 or 3 payments of $349</div>
+        <button class="cta-button" onclick="window.location.href='https://www.paypal.com/paypalme/YourPayPalLinkHere'">
+            Pay with PayPal
+        </button>
+        <button class="cta-button" onclick="window.location.href='https://buy.stripe.com/test_XXXXXXX'">
+            Pay with Stripe
+        </button>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>&copy; 2024 Tree Service Academy. All rights reserved. <a href="#privacy-policy">Privacy Policy</a></p>
+</footer>
+
+</body>
+</html>
